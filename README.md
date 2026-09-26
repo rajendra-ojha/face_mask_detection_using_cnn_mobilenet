@@ -1,6 +1,14 @@
 # Real-Time Face Mask Detection System
 
-A production-grade, real-time computer vision application built from scratch using **Python, TensorFlow/Keras, OpenCV, and MobileNetV2**. This project is engineered for campus placement portfolios, demonstrating advanced deep learning workflows including **Transfer Learning, Fine-Tuning, Data Pipelines, and Real-Time Edge Inference**.
+A production-grade, real-time computer vision application built from scratch using
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red?logo=keras&logoColor=white)](https://keras.io/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv&logoColor=white)](https://opencv.org/)
+[![MobileNetV2](https://img.shields.io/badge/MobileNetV2-Model-blueviolet)](https://keras.io/api/applications/mobilenet/)
+[![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-ML-blue)](#)
+[![Fine Tuning](https://img.shields.io/badge/Fine--Tuning-Training-yellow)](#)
+[![Real Time](https://img.shields.io/badge/Real--Time-Inference-brightgreen)](#)
 
 ---
 
